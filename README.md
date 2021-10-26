@@ -1,0 +1,2 @@
+# Facultyfeedback-system
+This project is developed using PHP and MYSQL. Online faculty feedback system is used by  three kinds of users student, faculty and admin.The application should evaluate the answers  given by the student based on the feedback which will given by no 1-5 and grade has to be  generated to all the staff members of a particular department these feedback report was checked  by the admin.Admin can view the grades obtained by the lecturers and give this report to  principle and he can give counseling to the college staff
